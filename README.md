@@ -15,6 +15,13 @@ Inside this repository, you'll discover an assortment of Python programs coverin
 ## How to Explore
 Each program is organized into dedicated folders or files, accompanied by brief explanations or comments describing their functionality and purpose. Feel free to delve into these programs to explore their workings and how they address specific challenges.
 
+## Folder Structure
+### Email_Sender-Program
+* Email_Sender_Github.ipynb: Program developed to send an email to your mail based off of Python code
+
+### Word_Replacement-Program
+* Word_Replacement_Program.ipynb: Fun program which replaces words in a sentence based off of user input
+
 ## About Me
 I'm a Grade 9 student passionate about the limitless possibilities of programming and AI. This repository mirrors my exploration and experimentation with Python's functionalities and applications.
 
