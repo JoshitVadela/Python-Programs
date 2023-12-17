@@ -22,6 +22,12 @@ Each program is organized into dedicated folders or files, accompanied by brief 
 ### Word_Replacement-Program
 * Word_Replacement_Program.ipynb: Fun program which replaces words in a sentence based off of user input
 
+### Email_Slicer-Program
+* Email_Slicer_Program.ipynb: Mini Python program that provides the user with; Username, Domain and Extension based on the email provided
+
+### Banking-App-Using-OOP_Program
+* Banking-App-Using-OOP_Program: Basic Python Banking App using Object Oriented Programming
+
 ## About Me
 I'm a Grade 9 student passionate about the limitless possibilities of programming and AI. This repository mirrors my exploration and experimentation with Python's functionalities and applications.
 
