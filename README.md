@@ -28,6 +28,9 @@ Each program is organized into dedicated folders or files, accompanied by brief 
 ### Banking-App-Using-OOP_Program
 * Banking-App-Using-OOP_Program: Basic Python Banking App using Object Oriented Programming
 
+### Quiz-Program
+* WWII_Quiz_Program.ipynb: Basic Quiz Program about WWII, gives points based on correct user input
+
 ## About Me
 I'm a Grade 9 student passionate about the limitless possibilities of programming and AI. This repository mirrors my exploration and experimentation with Python's functionalities and applications.
 
